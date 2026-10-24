@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Game Board",
+    "count": 1,
+    "description": "The main playing surface showing [description of what's on the board].",
+    "material": "Cardboard",
+    "image_filename": "board.jpg"
+  },
+  {
+    "name": "Player Pieces",
+    "count": "5 sets of 10 pieces each",
+    "description": "Pieces used by players to [description of their purpose].",
+    "material": "Plastic",
+    "image_filename": "player_pieces.jpg"
+  },
+  {
+    "name": "Cards",
+    "count": 100,
+    "description": "Cards that represent [description of what the cards represent].",
+    "material": "Card Stock",
+    "image_filename": "cards.jpg"
+  },
+  {
+    "name": "Tokens",
+    "count": 50,
+    "description": "Tokens used to track [description of what the tokens track].",
+    "material": "Cardboard",
+    "image_filename": "tokens.jpg"
+  },
+  {
+    "name": "Dice",
+    "count": 2,
+    "description": "Six-sided dice used for [description of how dice are used].",
+    "material": "Plastic",
+    "image_filename": "dice.jpg"
+  },
+  {
+    "name": "Rulebook",
+    "count": 1,
+    "description": "Instruction manual for the game.",
+    "material": "Paper",
+    "image_filename": "rulebook.jpg"
+  }
+]
