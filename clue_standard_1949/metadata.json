@@ -1,0 +1,43 @@
+{
+  "game_title": "Clue",
+  "slug": "clue_standard_1949",
+  "bgg_id": 1294,
+  "publisher": [
+    "Hasbro",
+    "Waddingtons"
+  ],
+  "publication_year": 1949,
+  "game_type": "board_game",
+  "primary_mechanisms": [
+    "deduction",
+    "roll and move",
+    "hand management"
+  ],
+  "player_count": {
+    "min": 3,
+    "max": 6,
+    "best_at": [
+      4,
+      5,
+      6
+    ]
+  },
+  "playing_time": {
+    "min_minutes": 45,
+    "max_minutes": 60,
+    "avg_minutes": 45
+  },
+  "age_range": "8+",
+  "complexity_rating_bgg": 1.8,
+  "language_dependency": "low",
+  "status": "stub",
+  "tags": [
+    "deduction",
+    "murder mystery",
+    "family"
+  ],
+  "data_source_notes": "Also known as Cluedo in some regions, a deduction game with millions sold",
+  "alternative_titles": [
+    "Cluedo"
+  ]
+}
